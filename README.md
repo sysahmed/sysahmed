@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Ahmed
 - 👀 I’m interested in GitHub :    https://github.com/sysahmed
-     LinkedIn : https://www.linkedin.com/in/ahmed-ahmed-84a63273/
+-  LinkedIn : https://www.linkedin.com/in/ahmed-ahmed-84a63273/
 
      Level: Expert, Experience: 9 years.
 
