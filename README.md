@@ -1,46 +1,57 @@
-- 👋 Hi, I’m Ahmed Ahmed
-- 👀 I’m interested in GitHub :    https://github.com/sysahmed
--  LinkedIn : https://www.linkedin.com/in/ahmed-ahmed-84a63273/
+👋 Hi, I’m Ahmed Ahmed  
 
-     Level: Expert, Experience: 9 years.
+- 👀 Check out my work on GitHub: [github.com/sysahmed](https://github.com/sysahmed)  
+- 🔗 Connect with me on LinkedIn: [linkedin.com/in/ahmed-ahmed-84a63273](https://www.linkedin.com/in/ahmed-ahmed-84a63273/)  
 
-.Net Backend - Microservice Architecture, Api-Gateway, Multi tenant, DDD-Domain Driven Design, Onion Architecture, Docker, Jenkins, GitHub, RabbitMQ, Azure, Redist Memory Cach, MediatR, CQRS -Command and Query Responsibility Segregation Pattern,  JWT-Json Web Token, Autofac, Fluent Validation, Identity Service, Auto Mapper, Redist Non SQL, Mocha Unit Test, Interceptor, CCC - Cross cutting concerns, AOP - Aspect Oriented Programming, SOLID ,SCRUM.
+**Level:** Expert  
+**Experience:** 10+ years  
 
-.NET Platform, DDD-Domain Driven Design, SOLID, SCRUM,
-C # - Design Patterns, Repository Patterns, SOLID, Clean Code, Best Practice, LINQ Expressions, Lambda Expressions, Entity Framework, Microservices Backend WEB API-RESTful.
+---
 
-C # - Xamarin,ASP.Net- Core MVC Pattern ( Web API - REST, SOAP ), ASP.Net
-Web Form, ASP.Net MVC, Blazor, Signal IR, Xamarin Cross-Platform, XAML.
+### 💻 .NET & Software Engineering
+- Backend development with **.NET** (C#) – Microservices, API Gateway, Multi-Tenant, Onion & Clean Architecture  
+- **Domain Driven Design (DDD)**, **CQRS**, **MediatR**, **SOLID principles**, AOP, Interceptors, Cross-Cutting Concerns  
+- **Security & Identity**: JWT, Identity Service, Fluent Validation, Autofac, Redis Cache  
+- **Infrastructure**: Docker, Jenkins, GitHub Actions, RabbitMQ, Azure Cloud  
+- **Testing**: Mocha Unit Tests, Integration Testing  
+- **UI/Frontend**: ASP.NET Core MVC, Web API (REST & SOAP), Blazor, SignalR, Xamarin, Angular, JavaScript, Bootstrap  
 
-Angular, AngularJS, JavaScript, HTML, CSS, BOOTSTRAP, JSON. Azure.
-Design, construction, software programming, automation and automotive engineering.
- 
+---
 
+### 🤖 Artificial Intelligence & Machine Learning
+- Hands-on experience with **LLM models** (Claude, GPT, Mistral) – setup, deployment, and integration  
+- **Prompt Engineering** and building **custom AI agents** for automation and business workflows  
+- Local deployment and optimization of AI models with **LLM Studio**, Docker, and custom APIs  
+- Experience in **NLP, Generative AI, Chatbots, and AI-driven automation**  
+- Integrating AI into **.NET applications** and enterprise workflows  
 
+---
 
-Java Platform:
+### ☕ Java & Cross-Platform Development
+- **Java Spring / Spring Boot**, JPA, Kotlin, OOP, RESTful APIs  
+- Cross-platform development (Android, iOS)  
+- React, Vue.js, HTML, CSS, JSON  
+- Databases: MySQL, PostgreSQL, MSSQL, Oracle  
 
-Java Spring, Spring Bot, JPA, Web, Kotlin, Swing, Android IOs Cross Platform, OOP, Rest Full API.
-Spring - MySQL, PostgreSQL, MSSQL, Oracle,
-React, Vue ,JavaScript, HTML, CSS, BOOTSTRAP, JSON. SOLID, Clear Code.
+---
 
-Database:
+### 🗄️ Databases & Data Engineering
+- **Database Expert**: MSSQL, MySQL, PostgreSQL, MongoDB (NoSQL)  
+- Advanced SQL, LINQ, Lambda Expressions, Entity Framework, ADO.NET  
+- Database optimization and automation for enterprise software solutions  
 
-MSSQL, MYSQL, PostgreSQL, Linux MSSQL, Docker, Non Sql MongoDB Visual Basic .NET
-VB6, VB.NET - LINQ Expressions, Lambda Expressions, Entity Framework. ADO.NET.
+---
 
-Automation and Robotics, Programmable Logic Controller - PLC. Siemens Scada.
+### ⚙️ Automation & Engineering
+- Automation and Robotics, PLC programming (Siemens)  
+- SCADA systems, industrial software integration  
+- Development of automated software products for manufacturing and automotive industries  
 
-SQL Database Expert PostgreSQL, MySQL, MSSQL.
+---
 
-Development of automated software products based on SQL database and
-Java, C#, VB6, Visual Basic.
+### 📚 Education & Collaboration
+- 🎓 Currently pursuing a Master’s degree at Burgas Free University  
+- 💡 Always open to collaboration on **.NET technologies, AI projects, and enterprise automation solutions**  
+- 📫 Reach me at: **ahmedsinek@gmail.com**  
 
-- 🌱 I’m currently learning Master degre from Burgas Free University...
-- 💞️ I’m looking to collaborate on developing all dot.Net Tehnologies...
-- 📫 How to reach me ahmedsinek@gmail.com
-
-<!---
-sysahmed/sysahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
